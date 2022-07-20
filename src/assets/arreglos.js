@@ -1,5 +1,5 @@
 // Declarando un arreglo de string con personajes de comics
-let personajes = ['Iron Man', 'Batman', 'Superman', 'Antman', 'Thor']
+let personajes = ['Ironman', 'Batman', 'Superman', 'Antman', 'Thor']
 
 // Hallando la longitud del arreglo y jugando con las posiciones de los elementos
 console.log('tamaño - largo:', personajes.length)
